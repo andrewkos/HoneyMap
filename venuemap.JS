@@ -17,7 +17,7 @@ function initialize() {
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
 
-  var InvernessStationString = 'Inverness Station - Arrive Monday 14/4/14';
+  var InvernessStationString = 'Honeymoon Begins! - Inverness Station - Arrive Monday 14/4/14';
   var RoyalHotelUllapoolString = 'Royal Hotel Ullapool - One Night Mon 14/4/14';
   var AubergeCarnishString = 'Auberge Carnish - 2 Nights - Tues 15/4/14 - Wed 16/4/14';
   var LuskentyreString = 'Luskentyre - Ferry to Uist'; 
